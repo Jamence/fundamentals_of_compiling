@@ -1,0 +1,17 @@
+﻿生成启动时间为 5/19/2018 12:04:20。
+     1>项目“D:\c++Project\fundamentals_of_compiling\Parsing\Parsing\Parsing.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\c++project\fundamentals_of_compiling\parsing\parsing\源.cpp(8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\c++project\fundamentals_of_compiling\parsing\parsing\源.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\c++project\fundamentals_of_compiling\parsing\parsing\源.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\c++project\fundamentals_of_compiling\parsing\parsing\源.cpp(139): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\c++Project\fundamentals_of_compiling\Parsing\Debug\Parsing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\c++Project\fundamentals_of_compiling\Parsing\Debug\Parsing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\c++Project\fundamentals_of_compiling\Parsing\Debug\Parsing.lib" /MACHINE:X86 "Debug\源.obj"
+         Parsing.vcxproj -> D:\c++Project\fundamentals_of_compiling\Parsing\Debug\Parsing.exe
+     1>已完成生成项目“D:\c++Project\fundamentals_of_compiling\Parsing\Parsing\Parsing.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.52
